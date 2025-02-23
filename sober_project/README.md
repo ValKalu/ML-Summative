@@ -68,15 +68,6 @@ The loss curves for the trained models are shown below.
 
 [Include Loss Curve Plots for all models Here]
 
-# Results of Optimizations and Parameter Setting
-
-| Training Instance | Optimizer Used | Regularizer Used | Epochs | Early Stopping | Layers | Learning Rate | Accuracy | F1-Score | Recall | Precision | Loss |
-| :------------------ | :------------- | :--------------- | :----- | :------------- | :----- | :------------ | :------- | :------- | :----- | :-------- | :--- |
-| Instance 1          | Adam (Default) | None             | 50     | No             | 2      | 0.001 (Default) | 0.306    | 0.285    | 0.306  | 0.300     | 1.838 |
-| Instance 2          | Adam           | L2 (0.001)       | 50     | No             | 2      | 0.001         | 0.311    | 0.291    | 0.311  | 0.304     | 1.834 |
-| Instance 3          | RMSprop        | None             | 100    | No             | 2      | 0.0001        | 0.306    | 0.283    | 0.306  | 0.298     | 1.835 |
-| Instance 4          | Adam           | None             | 50     | No             | 2      | 0.001         | 0.306    | 0.285    | 0.306  | 0.300     | 1.838 |
-| Instance 5          | Adam           | None             | 50     | No             | 2      | 0.001         | 0.306    | 0.285    | 0.306  | 0.300     | 1.838 |
 
 ## 7. Prediction
 
@@ -117,6 +108,18 @@ This project demonstrates the potential of machine learning to predict addiction
 * Integrates behavioral analysis with region-specific data and cultural understanding.
 * Provides a comprehensive, data-driven approach to addiction management tailored to each user.
 
-## 12. Unfair Advantage (From Proposal)
+# Results of Optimizations and Parameter Setting
 
+| Training Instance | Optimizer Used | Regularizer Used | Epochs | Early Stopping | Layers | Learning Rate | Accuracy | F1-Score | Recall | Precision | Loss |
+| :------------------ | :------------- | :--------------- | :----- | :------------- | :----- | :------------ | :------- | :------- | :----- | :-------- | :--- |
+| Instance 1          | Adam (Default) | None             | 50     | No             | 2      | 0.001 (Default) | 0.306    | 0.285    | 0.306  | 0.300     | 1.838 |
+| Instance 2          | Adam           | L2 (0.001)       | 50     | No             | 2      | 0.001         | 0.311    | 0.291    | 0.311  | 0.304     | 1.834 |
+| Instance 3          | RMSprop        | None             | 100    | No             | 2      | 0.0001        | 0.306    | 0.283    | 0.306  | 0.298     | 1.835 |
+| Instance 4          | Adam           | None             | 50     | No             | 2      | 0.001         | 0.306    | 0.285    | 0.306  | 0.300     | 1.838 |
+| Instance 5          | Adam           | None             | 50     | No             | 2      | 0.001         | 0.306    | 0.285    | 0.306  | 0.300     | 1.838 |
+
+## 12. Unfair Advantage (From Proposal)
+[Link to Proposal]([url](https://docs.google.com/document/d/1UrOqmwfIvFnwYE6D0rup4zAvXc0G_DpJrOXjlUPmnbY/edit?tab=t.0#heading=h.gem7vt95w6br))
 * Solid partnerships and affiliations with healthcare, agricultural, and wellness providers.
+
+Link to Video
