@@ -119,7 +119,12 @@ This project demonstrates the potential of machine learning to predict addiction
 | Instance 5          | Adam           | None             | 50     | No             | 2      | 0.001         | 0.306    | 0.285    | 0.306  | 0.300     | 1.838 |
 
 ## 12. Unfair Advantage (From Proposal)
-[Link to Proposal]([url](https://docs.google.com/document/d/1UrOqmwfIvFnwYE6D0rup4zAvXc0G_DpJrOXjlUPmnbY/edit?tab=t.0#heading=h.gem7vt95w6br))
+[Link to Proposal](https://docs.google.com/document/d/1UrOqmwfIvFnwYE6D0rup4zAvXc0G_DpJrOXjlUPmnbY/edit?tab=t.0#heading=h.gem7vt95w6br)
+(https://docs.google.com/document/d/1UrOqmwfIvFnwYE6D0rup4zAvXc0G_DpJrOXjlUPmnbY/edit?tab=t.0#heading=h.gem7vt95w6br)
 * Solid partnerships and affiliations with healthcare, agricultural, and wellness providers.
 
-Link to Video
+[Link to Video]((https://www.loom.com/share/b19ddc2bdbf04f118118baa8cef4d77e?sid=212cbf06-71d1-4118-bf6f-4179a1bdb393))
+https://www.loom.com/share/b19ddc2bdbf04f118118baa8cef4d77e?sid=212cbf06-71d1-4118-bf6f-4179a1bdb393
+
+[Link to Neural Network DIagram](https://drive.google.com/file/d/1JtiVIzMV9JTRVbrd3Grg3e-GWwZX6VaL/view?usp=sharing)
+https://drive.google.com/file/d/1JtiVIzMV9JTRVbrd3Grg3e-GWwZX6VaL/view?usp=sharing
